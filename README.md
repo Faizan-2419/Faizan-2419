@@ -21,7 +21,7 @@
 - ✍️ I’m looking for help with **mastering Power BI and contributing to real-world ML projects**  
 - 📜 I plan to write soon on **Medium and LinkedIn** about data science and tech tips  
 - 💬 Ask me about: **Python basics, data cleaning, Power BI dashboards, Excel automation**  
-- 📧 Reach me at: [LinkedIn](linkedin.com/in/faizanur-rahman-a50344384)  
+- 📧 Reach me at: [LinkedIn]( linkedin.com/in/faizanur-rahman-a50344384 )  
 - 📄 Know more: I'm a **B.Tech (CSE) student** with strong interest in **Python, Data Science & ML**  
 - ✨ Fun fact: **I love turning boring Excel sheets into Power BI dashboards & often talk to AI like Jarvis 🤖**
 
